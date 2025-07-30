@@ -61,7 +61,7 @@ const Footer = () => {
               <h4 className="text-xl sm:text-2xl font-semibold mb-4">Quick Links</h4>
               <ul className="text-[#C0C0C0] flex flex-col gap-3 text-base sm:text-lg">
                 <li><a href="/" className="hover:text-white">Home</a></li>
-                <li><a href="#aboutus" className="hover:text-white">About Us</a></li>
+                <li><a href="/#aboutus" className="hover:text-white">About Us</a></li>
                 <li><a href="/products" className="hover:text-white">Product</a></li>
                 <li><a href="/contact" className="hover:text-white">Contact Us</a></li>
               </ul>

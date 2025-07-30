@@ -155,7 +155,7 @@ const ProductsIntro = () => {
       title: "Airlaid Paper",
       subtitle: "Superior absorption material",
       description:
-        "Airlaid paper features a soft cotton-like texture and serves as the primary absorbent core inside the sanitary pad. This ultra-absorbent airlaid material has a sponge-like structure that rapidly draws menstrual flow toward the center while keeping the top surface dry. Our high-capacity airlaid core prevents side leakage through superior liquid distribution and spreads fluid evenly for maximum absorption.",
+        "Airlaid paper features a soft cotton-like texture and serves as the primary absorbent core inside the sanitary pad. This ultra-absorbent airlaid material has a sponge-like structure that rapidly draws menstrual flow toward the center while keeping the top surface dry.",
       image: "/images/airlaid.png", alt : "Superior absorption material for pads and diapers, eco-friendly."
     },
     {
