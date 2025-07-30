@@ -84,11 +84,13 @@ const HeroSection = () => {
               src="/images/Group 1000004838.png"
               alt="500+ Clients"
               className="rounded-2xl object-cover w-[220px] sm:w-[270px] lg:w-[296px] h-auto"
+              loading = "lazy"
             />
             <img
               src="/images/layers.png"
               alt="Sanitary Napkins"
               className="rounded-[25px] object-cover w-[220px] sm:w-[300px] lg:w-[330px] h-auto hidden sm:block"
+              loading = "lazy"
             />
           </div>
 
@@ -103,11 +105,13 @@ const HeroSection = () => {
               src="/images/pad1.png"
               alt="Sanitary Pads Napkins"
               className="rounded-[25px] object-cover w-[160px] sm:w-[250px] lg:w-[345px] h-auto rotate-180"
+              loading = "lazy"
             />
             <img
               src="/images/glass1.png"
               alt="Acrylic Glass Sheet"
               className="rounded-[25px] object-cover w-[160px] sm:w-[250px] lg:w-[345px] h-auto rotate-180"
+              loading = "lazy"
             />
           </div>
 

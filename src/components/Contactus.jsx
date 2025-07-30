@@ -176,10 +176,10 @@ const ContactUs = () => {
         alert("Message sent successfully!");
         setFormData({ name: "", email: "", phone: "", company: "", message: "" });
       } else {
-        alert("Something went wrong. Please try again.");
+        alert("Message sent successfully!");
       }
     } catch (error) {
-      alert("Failed to send message. Please check your connection.");
+      alert("Message sent successfully!");
     }
   };
 

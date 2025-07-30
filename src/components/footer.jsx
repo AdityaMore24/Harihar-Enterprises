@@ -34,7 +34,7 @@ const Footer = () => {
                 href="tel:+91 95944 49902"
                 className="flex-1 flex justify-center items-center gap-2 border border-gray-600 rounded-full py-4 px-6 hover:bg-white hover:text-black hover:border-white text-sm sm:text-base"
               >
-                +91 95944 9902 <img src="/images/arrow-right.png" alt="Arrow Up" className="w-[22px] h-[22px]" />
+                +91 95944 49902 <img src="/images/arrow-right.png" alt="Arrow Up" className="w-[22px] h-[22px]" />
               </a>
             </div>
 

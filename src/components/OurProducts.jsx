@@ -134,55 +134,55 @@ const ProductsIntro = () => {
     {
       title: "Hydrophilic Layer(Non-Woven)",
       subtitle: "High absorption layer for sanitary pads",
-      description: "Made from ultra-soft non-woven hydrophilic material (15–30 GSM), this premium liquid acquisition layer features a cotton-like topsheet that instantly channels menstrual flow away from skin. The advanced fiber structure provides fast liquid penetration and rapid absorption while anti-rewet properties keep the surface dry even under pressure. Our hydrophilic non-woven fabric delivers superior fluid distribution and excellent leakage prevention through efficient transfer to the absorbent core. Experience all-day comfort and protection with our skin-friendly hydrophilic layer that maintains a fresh, clean feeling throughout wear.",
+      description: "Made from ultra-soft non-woven hydrophilic material (15–30 GSM), this premium liquid acquisition layer features a cotton-like topsheet that instantly channels menstrual flow away from skin. The advanced fiber structure provides fast liquid penetration and rapid absorption while anti-rewet properties keep the surface dry even under pressure.",
       image: "/images/hydro.png", alt:"Hydrophilic layer for sanitary pads made from ultra-soft non-woven material" 
     },
     {
       title: "Dry Net",
       subtitle: "Soft, breathable top sheets for comfort",
       description:
-        "Made from soft non-woven fabric with tiny holes, this perforated dry net layer quickly pulls menstrual fluid through while keeping the top surface dry and clean. The micro-perforated design prevents wetness and provides smooth, comfortable wear without irritation. Our breathable dry net offers excellent leak protection and maintains dryness throughout use for all-day comfort and freshness. The gentle fabric feels soft against skin and ensures worry-free protection during daily activities.",
+        "Made from soft non-woven fabric with tiny holes, this perforated dry net layer quickly pulls menstrual fluid through while keeping the top surface dry and clean. The micro-perforated design prevents wetness and provides smooth, comfortable wear without irritation. Our breathable dry net offers excellent leak protection and maintains dryness throughout use for all-day comfort and freshness.",
       image: "/images/drynet.png", alt: "Soft, breathable top sheets for sanitary pads, perfect for sensitive skin."
     },
     {
       title: "Anion Chip",
       subtitle: "Antibacterial layers enhancing hygiene",
       description:
-        "The anion chip is a small green or blue strip placed in the center of the pad that provides natural antibacterial and odor control benefits. This negative ion technology naturally eliminates harmful bacteria and neutralizes unpleasant odors, keeping you fresh and confident during periods. Our chemical-free anion strip works without harsh additives, preventing itching and irritation for safe daily use. The antibacterial anion chip actively stops bacterial growth and maintains optimal hygiene protection. Experience enhanced freshness with our natural anion technology that delivers long-lasting odor control and antibacterial protection throughout cycle.",
+        "The anion chip is a small green or blue strip placed in the center of the pad that provides natural antibacterial and odor control benefits. This negative ion technology naturally eliminates harmful bacteria and neutralizes unpleasant odors, keeping you fresh and confident during periods. Our chemical-free anion strip works without harsh additives, preventing itching and irritation for safe daily use.",
       image: "/images/anion.png", alt: "Antibacterial Anion Layer for Hygiene Products"
     },
     {
       title: "Airlaid Paper",
       subtitle: "Superior absorption material",
       description:
-        "Airlaid paper features a soft cotton-like texture and serves as the primary absorbent core inside the sanitary pad. This ultra-absorbent airlaid material has a sponge-like structure that rapidly draws menstrual flow toward the center while keeping the top surface dry. Our high-capacity airlaid core prevents side leakage through superior liquid distribution and spreads fluid evenly for maximum absorption. Experience superior comfort with our premium airlaid paper core that delivers exceptional absorption, reliable leak protection, and maintains a clean, fresh feeling for hours.",
+        "Airlaid paper features a soft cotton-like texture and serves as the primary absorbent core inside the sanitary pad. This ultra-absorbent airlaid material has a sponge-like structure that rapidly draws menstrual flow toward the center while keeping the top surface dry. Our high-capacity airlaid core prevents side leakage through superior liquid distribution and spreads fluid evenly for maximum absorption.",
       image: "/images/airlaid.png", alt : "Superior absorption material for pads and diapers, eco-friendly."
     },
     {
       title: "Glass Colours",
-      subtitle: "Durable, vibrant colors for glass applications",
+      subtitle: "Vibrant colors for glass applications",
       description:
-        "Glass colours are specialized paints formulated for creating beautiful designs on glass surfaces including windows, bottles, mirrors, and decorative items. These high-quality glass paints are bright, shiny, and long-lasting, delivering vibrant color intensity that maintains brilliance over time. Our permanent glass colours feature superior adhesion that sticks well to glass and resists washing and fading. Experience creative freedom with our premium glass colours that deliver exceptional vibrancy, reliable adhesion, and durable performance for all glass art and decorative projects.",
+        "Glass colours are specialized paints formulated for creating beautiful designs on glass surfaces including windows, bottles, mirrors, and decorative items. These high-quality glass paints are bright, shiny, and long-lasting, delivering vibrant color intensity that maintains brilliance over time. Our permanent glass colours feature superior adhesion that sticks well to glass and resists washing and fading.",
       image: "/images/colors.png", alt : "Vibrant Glass Coloring Sheets"
     },
     {
       title: "Glass Tools",
       subtitle: "Precision tools for glass processing",
       description:
-        "Glass tools are specialized instruments designed for creating patterns, names, or decorative designs on glass surfaces with professional precision. These glass engraving tools help scratch or mark glass gently without causing breakage, delivering clean and accurate results. Our durable glass marking tools are strong, easy to use, and perfect for decoration, personalization, or branding applications. Experience professional glass customization with our premium glass tools that deliver reliable performance and precise control for all glass engraving and marking projects.",
+        "Glass tools are specialized instruments designed for creating patterns, names, or decorative designs on glass surfaces with professional precision. These glass engraving tools help scratch or mark glass gently without causing breakage, delivering clean and accurate results. Our durable glass marking tools are strong, easy to use, and perfect for decoration, personalization, or branding applications. ",
       image: "/images/tools.png", alt : "Essential Glass Cutting and Shaping Tools"
     },
     {
       title: "Glass Etching Sticker Rolls",
       subtitle: "Premium sticker rolls for decorative glass etching",
       description:
-        "Glass tools are specialized instruments designed for creating patterns, names, or decorative designs on glass surfaces with professional precision. These glass engraving tools help scratch or mark glass gently without causing breakage, delivering clean and accurate results. Our durable glass marking tools are strong, easy to use, and perfect for decoration, personalization, or branding applications. Experience professional glass customization with our premium glass tools that deliver reliable performance and precise control for all glass engraving and marking projects.",
+        "Glass tools are specialized instruments designed for creating patterns, names, or decorative designs on glass surfaces with professional precision. These glass engraving tools help scratch or mark glass gently without causing breakage, delivering clean and accurate results. Our durable glass marking tools are strong, easy to use, and perfect for decoration, personalization, or branding applications.",
       image: "/images/sticker.png", alt : "Durable Glass Etching Sticker Roll"
     },
     {
       title: "Silicon Release Paper",
       subtitle: "Easy peel release paper",
-      description: "Silicon Release Paper is a smooth, shiny sheet used to cover the adhesive portion of the pad, providing protective coverage until use. This silicone-coated release liner features a thin silicon layer on both sides that prevents sticking and ensures effortless peeling without residue. Our easy-peel release paper keeps the adhesive clean and maintains optimal sticking power while making the pad easy to handle and apply without mess. Experience convenient application with our premium silicon release paper that delivers smooth removal and ensures hassle-free pad positioning for secure, comfortable wear.",
+      description: "Silicon Release Paper is a smooth, shiny sheet used to cover the adhesive portion of the pad, providing protective coverage until use. This silicone-coated release liner features a thin silicon layer on both sides that prevents sticking and ensures effortless peeling without residue. Our easy-peel release paper keeps the adhesive clean and maintains optimal sticking power while making the pad easy to handle and apply without mess.",
       image: "/images/silicon.png", alt : "High-Quality Silicon Coated Release Paper"
     },
   ];
