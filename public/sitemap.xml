@@ -3,19 +3,19 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 >
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://www.hariharbusiness.com/</loc>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://www.example.com/home</loc>
+    <loc>https://www.hariharbusiness.com/home</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.example.com/products</loc>
+    <loc>https://www.hariharbusiness.com/products</loc>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://www.example.com/contact</loc>
+    <loc>https://www.hariharbusiness.com/contact</loc>
     <priority>0.70</priority>
   </url>
 </urlset>
