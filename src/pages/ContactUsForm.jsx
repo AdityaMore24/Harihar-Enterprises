@@ -154,18 +154,18 @@ const ContactUs = () => {
       {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "Harihar Enterprises",
-        "url": "https://www.example.com", 
-        "logo": "https://www.example.com/logo.png",
-        "description": "Leading manufacturer and wholesale supplier of industrial non-woven fabric, gumming materials, and hygiene solutions in India.",
+        "name": "Harihar Gummings",
+        "url": "https://www.hariharbusiness.com",
+        "logo": "https://www.hariharbusiness.com/public/images/logo.png",
+        "description": "Harihar Gummings is a leading manufacturer and wholesale supplier of sanitary pad raw materials including nonwoven fabrics, SAP, PE film, release paper, and gumming sheets for hygiene product manufacturing.",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "+91-959449902",
+          "telephone": "+91-9594449902",
           "contactType": "Customer Support",
           "areaServed": "IN",
           "availableLanguage": "English"
         
-      
+        }
       }
     `}
   </script>
